@@ -1,2 +1,2 @@
 # studying_javascript_es6_funda
-자바스크립트 ES6 문법에 익숙해지기 위한 practice repository입니다.
+자바스크립트 ES6 문법을 복습하기 위한 basic code 입니다.
