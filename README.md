@@ -1,5 +1,5 @@
 # studying_javascript_es6_funda
-## 자바스크립트 ES6 문법을 복습하기 위한 basic syntax 입니다.
+## 자바스크립트 ES6 문법을 복습하고 정리하는 repository 입니다.
 
 ### 다음 강의를 참고하였습니다. 
 ### <a href="https://inf.run/Qwou">모던 자바스크립트(javascript) 개발을 위한 ES6 강좌</a>
