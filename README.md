@@ -40,7 +40,6 @@
 - __Proxy__
   - proxy
   - proxy handler
-- __Mini project__
 
 ---
 ## 참고 : 
