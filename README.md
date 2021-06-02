@@ -1,11 +1,11 @@
 # studying_javascript_es6_funda
-### 자바스크립트 ES6 문법을 복습하기 위한 basic syntax 입니다.
+## 자바스크립트 ES6 문법을 복습하기 위한 basic syntax 입니다.
 ---
 
 
-#### Content
+### Content
 ---
-- __scope__
+- __Scope__
   - var & let
   - let & Closure
   - const
@@ -24,6 +24,13 @@
   - Tagged literal template
 - __Arrow function__
   - this context
-- __parameters__
+- __Parameters__
   - function defulat paramters
   - function rest parameters
+- __Class Object__
+  - prototype
+  - class
+  - object assign & object create
+  - setPrototypeOf
+- __module__
+  - 
