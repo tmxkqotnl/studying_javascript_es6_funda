@@ -1,5 +1,6 @@
 # studying_javascript_es6_funda
 ## 자바스크립트 ES6 문법을 복습하기 위한 basic syntax 입니다.
+
 ---
 
 
@@ -34,3 +35,10 @@
   - setPrototypeOf
 - __module__
   - 
+
+---
+## 참고 : 
+      - https://ko.javascript.info/proxy
+      - https://ui.toast.com/weekly-pick/ko_20210413
+
+
